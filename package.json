@@ -1,0 +1,14 @@
+{
+  "name": "fbtokenmagic",
+  "version": "1.0.12",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fb": "^2.0.0",
+    "moment": "^2.22.2",
+    "terminal-kit": "^1.26.8"
+  },
+  "bin": {
+    "fbtokenmagic": "./bin/index.js"
+  }
+}
